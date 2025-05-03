@@ -33,7 +33,7 @@ public class Help {
                     "&f- &3/lookup &b<player>\n" +
                     "&2 \n" +
                     "&3Version: &b" + Guard.getInstance().getDescription().getVersion() + " \n" +
-                    "&3Discord Support: &bdiscord.gg/ddjgppCqga \n" +
+                    "&3Discord Support: &bdiscord.cupcode.fr \n" +
                     "&8&l&m------------------------------";
             player.sendMessage(ChatUtil.translate(help));
         } else if (option.equalsIgnoreCase("reload")) {

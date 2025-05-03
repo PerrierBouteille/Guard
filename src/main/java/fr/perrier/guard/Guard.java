@@ -17,16 +17,12 @@ import fr.perrier.guard.utils.*;
 import fr.perrier.guard.utils.item.*;
 import fr.perrier.guard.utils.update.*;
 import lombok.*;
-import org.bstats.charts.SimplePie;
 import org.bukkit.*;
 import org.bukkit.configuration.file.*;
-import org.bukkit.entity.Player;
 import org.bukkit.plugin.java.*;
 import org.bstats.bukkit.Metrics;
 
 import java.io.*;
-import java.net.HttpURLConnection;
-import java.net.URL;
 import java.util.*;
 
 public class Guard extends JavaPlugin {

@@ -1,5 +1,6 @@
 name: "Guard"
 author: "PerrierBottle"
+website: "https://cupcode.fr/"
 version: ${project.version}
 main: "fr.perrier.guard.Guard"
 description: "Advanced Moderation plugin"
